@@ -1,4 +1,4 @@
-package com.devsuperior.dslearnbds.controller.exceptions;
+package com.devsuperior.dslearnbds.controller;
 
 import com.devsuperior.dslearnbds.dto.NotificationDTO;
 import com.devsuperior.dslearnbds.services.NotificationService;
